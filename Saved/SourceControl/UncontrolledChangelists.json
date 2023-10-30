@@ -5,14 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/mainCharacter/main_character_model.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/SHotgun/shotgun_Box001.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/StarterContent/Particles/P_Sparks.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/StarterContent/Particles/P_Smoke.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/Characters/Mannequins/Animations/ABP_Player.uasset",
-				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/mainCharacter/main_character_model_Skeleton.uasset",
 				"E:/unreal/GameJam2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"E:/unreal/GameJam2/Content/importedContent/Colloseum/01_-_Default.uasset",
 				"E:/unreal/GameJam2/Content/importedContent/Colloseum/09_-_Default.uasset",
@@ -80,7 +72,20 @@
 				"E:/unreal/GameJam2/Content/importedContent/SHotgun/shotgun_Object002.uasset",
 				"E:/unreal/GameJam2/Content/importedContent/SHotgun/shotgun_Object003.uasset",
 				"E:/unreal/GameJam2/Content/importedContent/SHotgun/shotgun_Object004.uasset",
-				"E:/unreal/GameJam2/Content/importedContent/enemy/sucker_accents.uasset"
+				"E:/unreal/GameJam2/Content/importedContent/enemy/sucker_accents.uasset",
+				"E:/unreal/GameJam2/Content/Enemy/Enemy.uasset",
+				"E:/unreal/GameJam2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VH/211J7DNHZJGORELVGK1STD.uasset",
+				"E:/unreal/GameJam2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EF/A6USFKF8DIN72NR0UYS7CI.uasset",
+				"E:/unreal/GameJam2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LS/R9DOEHZF9MZEQIZA1OJ676.uasset",
+				"E:/unreal/GameJam2/Content/Enemy/Enemy_anim_blueprint.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/mainCharacter/main_character_model.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/SHotgun/shotgun_Box001.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/StarterContent/Particles/P_Sparks.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/StarterContent/Particles/P_Smoke.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/Characters/Mannequins/Animations/ABP_Player.uasset",
+				"C:/Users/tking/Documents/Development Stuff/Uni Games/Game Jam 2/Version 26-10-23/Content/importedContent/mainCharacter/main_character_model_Skeleton.uasset"
 			]
 		}
 	]
