@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object012_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object011_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object011_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object010_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object010_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object009_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object009_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object008_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object008_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Box002_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Box002_PhysicsAsset.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/05_-_Default.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/08_-_Default.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/03_-_Default.uasset",
+				"E:/unreal/GameJam2/Content/importedContent/MainCharacter2/main_character_model_3_Object012_Skeleton.uasset",
+				"E:/unreal/GameJam2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/tking/Documents/GitHub/GameJam2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
